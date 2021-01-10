@@ -1,6 +1,7 @@
 # statefulwidget
 
 StatefulWidget Flutter application.
+The main.dart file contains the actual code
 
 ## Getting Started
 
